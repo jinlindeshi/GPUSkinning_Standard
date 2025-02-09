@@ -13,3 +13,5 @@ GPUSkinning.Editor.csproj
 UserSettings
 Logs
 .idea
+Assets/GPUSampler/.DS_Store
+.DS_Store
